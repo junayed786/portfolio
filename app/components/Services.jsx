@@ -6,11 +6,11 @@ const Services = () => {
   return (
     <div id="services" className='w-full px-[12%] py-10 scroll-m-20'>
         <h4 className='text-center mb-2 text-lg'>
-            What I offer</h4>
+             </h4>
         <h2 className='text-center text-5xl font-Ovo'>
-            My Services</h2>
+            My Experiences</h2>
             <p className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'> 
-                Text write some thing</p>
+            I have over 3 years of professional experince and my work places includes:</p>
         <div className='grid grid-cols-auto gap-6 my-10'>
             {serviceData.map(({icon, title, description, link}, index)=>(
                 <div key={index}

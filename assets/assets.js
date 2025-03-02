@@ -27,7 +27,7 @@ import menu_black from './menu-black.png';
 import menu_white from './menu-white.png';
 import close_black from './close-black.png';
 import close_white from './close-white.png';
-import web_icon from './web-icon.png';
+import web_icon from './web.jpg';
 import mobile_icon from './mobile-icon.png';
 import ui_icon from './ui-icon.png';
 import graphics_icon from './graphics-icon.png';
@@ -78,37 +78,37 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
-        description: 'Web Design',
+        title: 'Data Analysis with R',
+        description: 'Analysing and data visualisation with R and R studio',
         bgImage: '/work-1.png',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'Multi cloud Cost calculator ',
+        description: 'Software Architecture and Web app prototype with Angular ',
         bgImage: '/work-2.png',
     },
     {
-        title: 'Photography site',
+        title: 'Online Shoe Store',
         description: 'Web Design',
         bgImage: '/work-3.png',
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        title: 'Sentiment Relation with Crypto Price',
+        description: 'Fining co relation of Human sentiment with cryto prices',
         bgImage: '/work-4.png',
     },
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
+    { icon: assets.web_icon, title: 'Web Development', description: 'Full Stack developer at StrategyBridgeAi...', link: '' },
+    { icon: assets.web_icon, title: 'Web Development', description: 'Full Stack developer at E.On Research Center...', link: '' },
+    { icon: assets.web_icon, title: 'Data Science Focus', description: 'Python and Web developer at RWTH Aachen University...', link: '' },
+    { icon: assets.web_icon, title: 'Web design and Development', description: 'Full Stack developer at Hydroplace Gmbh...', link: '' },
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js, Next Js' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Tech in Computer Science' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'Python, Java, HTML, CSS, JavaScript React Js, Next Js' },
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'MSc in Softwer Systems Engineering and BSc in Computer Science Engineering' },
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
 ];
 

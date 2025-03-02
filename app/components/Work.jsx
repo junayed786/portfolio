@@ -8,7 +8,7 @@ const Work = () => {
         <h4 className='text-center mb-2 text-lg'>
             My Portfolio</h4>
         <h2 className='text-center text-5xl font-Ovo'>
-            My Experiences</h2>
+            My Projects</h2>
             <p className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'> 
             Text write some thing</p>
         <div className='grid grid-cols-auto my-10 gap-5'>
