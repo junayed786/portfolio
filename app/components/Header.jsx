@@ -17,7 +17,7 @@ const Header = () => {
             <Image  src={assets.hand_icon} alt=''
             className='w-6'/></h3>
         <h1 className='text-3x1 sm:text-6xl lg:text-[66px] font-Ovo'>
-            Full stack developer based on Hamburg</h1>
+            Full stack developer based in Hamburg, Germany</h1>
             <p className='max-w-2xl mx-auto font-Ovo'>
             A full stack developer focusing on JavaScript/TypeScript and python with around 3 years of professional experience in designing,
 developing, and maintaining web apps. Confident in frameworks like React, Next js, Fastapi, Flask and other cutting-edge technolo-

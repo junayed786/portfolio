@@ -36,7 +36,7 @@ const Contact = () => {
         <h2 className='text-center text-5xl font-Ovo'>
             Get in touch</h2>
             <p className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'> 
-            Text write some thing</p>
+            You can reach out to me by writing here in the contact section or you can also email me directly to the email provided below</p>
             <form onSubmit={onSubmit} className='max-w-2xl mx-auto'>
                 <div className='grid grid-cols-auto gap-6 mt-10 mb-8'>
                     <input type="text" placeholder='Enter your name' required
