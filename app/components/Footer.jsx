@@ -17,9 +17,9 @@ const Footer = () => {
         border-gray-400 mx-[10%] mt-12 py-6'>
             <p>@ 2025 Syed Junayed Ahmed Anta. All rights reserved.</p>
             <ul className='flex items-center gap-10 justify-center mt-4 sm:mt-0'>
-                <li><a href="">GitHub</a></li>
-                <li><a href="">LinkedIn</a></li>
-                <li><a href="">Facebook</a></li>
+                <li><a href="https://github.com/junayed786">GitHub</a></li>
+                <li><a href="https://www.linkedin.com/in/syed-junayed-ahmed-anta-96aa78114/">LinkedIn</a></li>
+                <li><a href="https://www.facebook.com/junayed1">Facebook</a></li>
             </ul>
         </div>
     </div>

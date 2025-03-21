@@ -10,7 +10,7 @@ const Work = () => {
         <h2 className='text-center text-5xl font-Ovo'>
             My Projects</h2>
             <p className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'> 
-            Text write some thing</p>
+            Here are few of my projects.</p>
         <div className='grid grid-cols-auto my-10 gap-5'>
             {workData.map((project, index)=>(
                 <div key={index} className='aspect-square bg-no-repeat bg-cover bg-center rounded-lg
