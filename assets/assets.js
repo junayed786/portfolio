@@ -100,10 +100,10 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web Development', description: 'Full Stack developer at StrategyBridgeAi...', link: '' },
-    { icon: assets.web_icon, title: 'Web Development', description: 'Full Stack developer at E.On Research Center...', link: '' },
-    { icon: assets.web_icon, title: 'Data Science Focus', description: 'Python and Web developer at RWTH Aachen University...', link: '' },
-    { icon: assets.web_icon, title: 'Web design and Development', description: 'Full Stack developer at Hydroplace Gmbh...', link: '' },
+    { icon: assets.web_icon, title: 'Web Development', description: 'Full Stack developer at StrategyBridgeAi...', link: 'experiences/strategybridge' },
+    { icon: assets.web_icon, title: 'Web Development', description: 'Full Stack developer at E.On Research Center...', link: 'experiences/eon' },
+    { icon: assets.web_icon, title: 'Data Science Focus', description: 'Python and Web developer at RWTH Aachen University...', link: 'experiences/rwth' },
+    { icon: assets.web_icon, title: 'Web design and Development', description: 'Full Stack developer at Hydroplace Gmbh...', link: 'experiences/hydroplace' },
 ]
 
 export const infoList = [
