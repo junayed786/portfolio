@@ -35,6 +35,7 @@ import right_arrow from './right-arrow.png';
 import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
+import web_image from './public/web.png';
 
 export const assets = {
     user_image,
@@ -73,29 +74,30 @@ export const assets = {
     right_arrow,
     send_icon,
     right_arrow_bold,
-    right_arrow_bold_dark
+    right_arrow_bold_dark,
+    web_image
 };
 
 export const workData = [
     {
         title: 'Data Analysis with R',
         description: 'Analysing and data visualisation with R and R studio',
-        bgImage: '/work-1.png',
+        bgImage: "/data.png",
     },
     {
         title: 'Multi cloud Cost calculator ',
         description: 'Software Architecture and Web app prototype with Angular ',
-        bgImage: '/work-2.png',
+        bgImage: '/sa.png',
     },
     {
-        title: 'Online Shoe Store',
+        title: 'Karma Online Page',
         description: 'Web Design',
-        bgImage: '/work-3.png',
+        bgImage: '/web.png',
     },
     {
         title: 'Sentiment Relation with Crypto Price',
-        description: 'Fining co relation of Human sentiment with cryto prices',
-        bgImage: '/work-4.png',
+        description: 'Finding co relation of Human sentiment with cryto prices',
+        bgImage: './crypto.png',
     },
 ]
 
