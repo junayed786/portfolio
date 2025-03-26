@@ -136,7 +136,7 @@ export const serviceData = [
 export const infoList = [
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'Python, Java, HTML, CSS, JavaScript, TypeScript, Latex' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'MSc in Softwer Systems Engineering and BSc in Computer Science Engineering' },
-    { icon: assets.hoby_icon, iconDark: assets.hoby_icon, title: 'Hobies', description: 'Football, Table Tennis, Badmintion' }
+    { icon: assets.hoby_icon, iconDark: assets.hoby_icon, title: 'Hobbies', description: 'Football, Table Tennis, Badmintion' }
 ];
 
 export const toolsData = [
