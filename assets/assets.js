@@ -103,7 +103,7 @@ export const workData = [
         title: 'Data Analysis with R',
         description: 'Analysing and data visualisation with R and R studio',
         bgImage: "/data.png",
-        link:"",
+        link:"projects/data-analysis-r",
     },
     {
         title: 'Multi cloud Cost calculator ',
