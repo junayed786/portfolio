@@ -124,6 +124,12 @@ export const workData = [
         bgImage: './crypto.png',
         link:"https://ieeexplore.ieee.org/abstract/document/8641075",
     },
+    {
+        title: 'Solana Realtime Price with D3',
+        description: 'Use of D3 to visualize Solana Crypto price hosted in AWS S3',
+        bgImage: './graph.jpg',
+        link:"http://solana-graph-d3.s3-website.eu-north-1.amazonaws.com/",
+    },
 ]
 
 export const serviceData = [
