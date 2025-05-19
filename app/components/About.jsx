@@ -13,12 +13,20 @@ const About = () => {
         </div>
         <div className='flex-1'>
         <p className='mb-10 max-w-2xl font-Ovo'>
-            I hold a Master's in Software Systems Engineering from RWTH Aachen and a Bachelor's
+            {/* I hold a Master's in Software Systems Engineering from RWTH Aachen and a Bachelor's
             in Computer Science from BRAC University, building a strong technical foundation.
             With over three years of experience, I have worked on web development, contributing
             to user-friendly applications. My tech stack includes Python, Flask, FastAPI, Docker,
             React, and TypeScript. I aim to grow as a Full Stack Developer, with a primary focus
-            on backend development, and thrive in a dynamic, innovative environment.
+            on backend development, and thrive in a dynamic, innovative environment. */}
+            A software developer with a strong focus on web development, 
+            bringing around 3 years of professional experience in designing, 
+            developing, and maintaining web applications. On the front end, 
+            experienced with JavaScript/TypeScript using frameworks like React and Next.js 
+            to build responsive and user-friendly interfaces. On the back end,
+            proficient in Python, working with technologies such as FastAPI 
+            and Flask to create robust APIs and server-side logic. Actively
+            interested in DevOps topics and modern deployment workflows.
         </p>
         <ul className='grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl'>
             {infoList.map(({ icon, iconDark, title, description }, index) => (

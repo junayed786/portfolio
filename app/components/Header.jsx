@@ -18,11 +18,16 @@ const Header = () => {
             className='w-6'/></h3>
         <h1 className='text-3x1 sm:text-6xl lg:text-[66px] font-Ovo'>
             Full stack developer based in Germany</h1>
-            <p className='max-w-2xl mx-auto font-Ovo'>
-            A full stack developer focusing on JavaScript/TypeScript and python with around 3 years of professional experience in designing,
-developing, and maintaining web apps. Confident in frameworks like React, Next js, Fastapi, Flask and other cutting-edge technolo-
-gies. Actively interested in devops topics.
-            </p>
+            {/* <p className='max-w-2xl mx-auto font-Ovo'>
+              A software developer with a strong focus on web development, 
+              bringing around 3 years of professional experience in designing, 
+              developing, and maintaining web applications. On the front end, 
+              experienced with JavaScript/TypeScript using frameworks like React and Next.js 
+              to build responsive and user-friendly interfaces. On the back end,
+               proficient in Python, working with technologies such as FastAPI 
+               and Flask to create robust APIs and server-side logic. Actively
+                interested in DevOps topics and modern deployment workflows.
+            </p> */}
             <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
                 <a href="#contact"
                 className='px-10 py-3 border border-white rounded-full bg-black text-white flex
